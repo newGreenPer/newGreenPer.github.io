@@ -5,9 +5,9 @@
   <subtitle>在路上</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
+  <link href="https://github.com/newGreenPer/newGreenPer.github.io/"/>
   <updated>2022-08-06T09:23:41.972Z</updated>
-  <id>/</id>
+  <id>https://github.com/newGreenPer/newGreenPer.github.io/</id>
   
   <author>
     <name>ErickJoshua</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>keepalived</title>
-    <link href="/2022/08/06/keepalived/"/>
-    <id>/2022/08/06/keepalived/</id>
+    <link href="https://github.com/newGreenPer/newGreenPer.github.io/2022/08/06/keepalived/"/>
+    <id>https://github.com/newGreenPer/newGreenPer.github.io/2022/08/06/keepalived/</id>
     <published>2022-08-06T09:14:20.000Z</published>
     <updated>2022-08-06T09:23:41.972Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>关于写博客</title>
-    <link href="/2022/08/06/start-blog/"/>
-    <id>/2022/08/06/start-blog/</id>
+    <link href="https://github.com/newGreenPer/newGreenPer.github.io/2022/08/06/start-blog/"/>
+    <id>https://github.com/newGreenPer/newGreenPer.github.io/2022/08/06/start-blog/</id>
     <published>2022-08-06T08:27:31.000Z</published>
     <updated>2022-08-06T08:27:40.058Z</updated>
     
@@ -58,10 +58,10 @@
     
     </summary>
     
-      <category term="随笔" scheme="/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://github.com/newGreenPer/newGreenPer.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="博客" scheme="/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://github.com/newGreenPer/newGreenPer.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
