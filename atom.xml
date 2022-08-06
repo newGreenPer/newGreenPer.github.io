@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ErickJoshua的博客</title>
+  
+  <subtitle>在路上</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2022-08-06T09:23:41.972Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>ErickJoshua</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>keepalived</title>
+    <link href="/2022/08/06/keepalived/"/>
+    <id>/2022/08/06/keepalived/</id>
+    <published>2022-08-06T09:14:20.000Z</published>
+    <updated>2022-08-06T09:23:41.972Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于写博客</title>
+    <link href="/2022/08/06/start-blog/"/>
+    <id>/2022/08/06/start-blog/</id>
+    <published>2022-08-06T08:27:31.000Z</published>
+    <updated>2022-08-06T08:27:40.058Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;陆陆续续记录工作中踩坑经历&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="博客" scheme="/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
